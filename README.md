@@ -7,7 +7,7 @@ demo-sms:一个简单的短信验证码发送程序|记录[SMSBoom-master](https
 
 ### 功能介绍
 + 提供一个手机号，该号码会立即收到两条短信验证码
-  ![func1]()
+  </br><img src="img/sms1.png" width = 70% height = 50% />
 + 可设置发送短信次数，每次发送短信数目为2[^1]
-  ![func2]()
+  </br><img src="img/sms2.png" width = 70% height = 50% />
 [^1]:demo-sms程序仅提供两个短信接口
