@@ -1,0 +1,22 @@
+[
+    {
+        "desc": "Eduline",
+        "url": "https://saas-api.51eduline.com/official/v5/phone/code/send",
+        "method": "POST",
+        "header": {
+        },
+        "data": {
+            "phone": "[phone]"
+        }
+    },
+    {
+        "desc": "智莺",
+        "url": "http://www.fnuo123.com/api/sign/sms",
+        "method": "POST",
+        "header": {
+        },
+        "data": {
+            "phone": "[phone]"
+        }
+    }
+]
